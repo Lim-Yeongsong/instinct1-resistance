@@ -264,6 +264,25 @@
 		});
 		});
 		});
+		
+		
+		$(".resistance").hide();
+		$(".folder-revolution").on("click", function(){
+		$(".folder-demo").on("click", function(){
+		$(".folder-love").on("click", function(){
+		$(".folder-death").on("click", function(){
+		$(".folder-music").on("click", function(){
+		$(".folder-war").on("click", function(){
+			$(".resistance").fadeTo(200,1);
+			$(".resistance").css("z-index", 400);
+
+			
+		});
+		});
+		});
+		});
+		});
+		});
 
 
 // , .folder-war, .folder-death, .folder-revolution, .folder-love, .folder-demo"
